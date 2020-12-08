@@ -116,7 +116,7 @@ MonoBehaviour:
   m_MinSize: {x: 708, y: 471}
   m_MaxSize: {x: 18003, y: 14021}
   vertical: 0
-  controlID: 145
+  controlID: 35
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -141,7 +141,7 @@ MonoBehaviour:
   m_MinSize: {x: 201, y: 342}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
-  controlID: 146
+  controlID: 36
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -221,7 +221,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 471}
   m_MaxSize: {x: 10002, y: 14021}
   vertical: 1
-  controlID: 37
+  controlID: 98
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -671,23 +671,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 005c0200
-      m_LastClickedID: 154624
-      m_ExpandedIDs: d2f8fefff6f8feff7efafeff90fafeffa8fafeff8e95ffff0696ffffb896ffffd4b3ffffa2beffffa2c9ffff4ccbffffa2f3ffffa0f8ffffbcfaffffb63f0000844000003c8000007e800000e09e0000229f0000f69f000038a2000006a30000
+      m_SelectedIDs: da530000
+      m_LastClickedID: 0
+      m_ExpandedIDs: c6cfffffeacfffff72d1ffff84d1ffff9cd1ffffbcfaffffb63f000084400000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: FireTrail
-        m_OriginalName: FireTrail
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: -27764
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 10}
       m_SearchString: 
@@ -736,20 +736,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets/Effect
   m_ViewMode: 1
   m_StartGridSize: 79
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/Effect
   m_LastFoldersGridSize: 79
   m_LastProjectPath: C:\Users\zkw\Documents\Work\Karting
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 275}
-    m_SelectedIDs: 604d0000
-    m_LastClickedID: 19808
-    m_ExpandedIDs: 00000000164d0000184d00001a4d00001c4d00001e4d0000204d0000224d0000564d0000604d000000ca9a3b
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 384d0000
+    m_LastClickedID: 19768
+    m_ExpandedIDs: 00000000164d00001a4d00001c4d00001e4d0000204d0000224d0000384d0000604d000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 

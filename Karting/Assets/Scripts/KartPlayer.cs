@@ -70,6 +70,7 @@ public class KartPlayer : MonoBehaviour
 
         //漂移时车轮下粒子特效
         wheelsParticeles = wheelsParticeleTrans.GetComponentsInChildren<ParticleSystem>();
+        StopDriftParticle();
     }
 
     void Update()
